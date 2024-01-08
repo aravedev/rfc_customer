@@ -10,6 +10,9 @@ and answering the following questions.
     3- How can customer segmentation help identify active, potential, and lost customers?
     4- Utilizing Tableau to visually present insights derived from the preceding analyses.
 
+For this project, I used the next dataset:
+https://www.kaggle.com/datasets/younaniskander/merchant-segmentation-system
+
 Tableau links:
 
 https://public.tableau.com/app/profile/danny.rave/viz/merchant_sql/Dashboard1?publish=yes

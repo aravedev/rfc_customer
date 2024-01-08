@@ -1,4 +1,4 @@
-# rfc_customer"
+# rfm_customer"
 
 This project utilizes hypothetical data from a ecommerce company with diverse customer bases worldwide.
 
